@@ -54,6 +54,7 @@ namespace Diagonal
                 }
             }
 
+
             Console.WriteLine("Sorted diagonal:");
             for (int i = 0; i < size; i++)
             {
