@@ -36,7 +36,7 @@ namespace ArrayFunction
 
             Console.ReadLine();
         }
-
+         
         static int GetMax(int[] array)
         {
             int result = array[0];
